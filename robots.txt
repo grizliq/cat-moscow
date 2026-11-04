@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://catcasino.moscow
+Sitemap: https://catcasino.moscow/sitemap.xml
